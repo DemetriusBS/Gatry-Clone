@@ -1,5 +1,4 @@
 import React from 'react'
-import PagesPromotionSearch from '../Search/Search'
 import { useParams } from 'react-router-dom'
 
 const PagesPromotionForm = () => {
